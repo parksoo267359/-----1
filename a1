@@ -1,1 +1,5 @@
 console.log("HELLO WOLL")
+console.log(null === undefined);
+console.log(kim == null){
+
+}
